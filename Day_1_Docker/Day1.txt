@@ -1,0 +1,11 @@
+#LSPPDay1 of 60 Days Challenge of @lftechnology 🚀
+
+Kicked off my Machine Learning journey with the powerful tool – Docker 🐳
+✔️ Understood Docker Images & Containers
+✔️ Learned how to build custom Docker images
+✔️ Pulled images from Docker Hub
+✔️ Explored Docker Engine (Daemon, CLI & REST API)
+
+One step closer to real-world ML deployment! ⚙️🧠
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
