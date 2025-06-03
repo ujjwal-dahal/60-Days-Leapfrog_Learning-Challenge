@@ -1,0 +1,11 @@
+#LSPPDay2 of 60 Days Challenge by @lftechnology 🐘
+
+Explored PostgreSQL today!
+✔️ CRUD operations
+✔️ Table creation with data types
+✔️ Key constraints (PK, NOT NULL, UNIQUE)
+✔️ Relations, tuples & attributes
+
+Building a solid DB foundation! 📊
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
