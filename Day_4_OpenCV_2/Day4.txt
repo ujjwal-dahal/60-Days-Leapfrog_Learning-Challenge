@@ -1,0 +1,8 @@
+#LSPPDay4 of 60 Days Challenge by @lftechnology 🎨
+
+Explored basic OpenCV operations today!
+✔️ Cropping & Resizing images
+✔️ Learned about Colorspaces: BGR, RGB, Grayscale, HSV, HSL
+✔️ Understood why color conversion matters in image processing 🧠
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
