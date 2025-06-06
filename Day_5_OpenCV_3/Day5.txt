@@ -1,0 +1,8 @@
+#LSPPDay5 of 60 Days Challenge by @lftechnology 🧪
+
+Dived into image pre-processing with OpenCV!
+✔️ Learned about Blurring techniques (Gaussian, Median)
+✔️ Removed Salt & Pepper Noise 🧂
+✔️ Explored Thresholding methods (Binary, Adaptive)
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
