@@ -1,0 +1,7 @@
+#LSPPDay6 of 60 Days Challenge by @lftechnology 🧪
+
+Today I explored Edge Detection with OpenCV!
+✔️ Used Canny Edge Detection to highlight edges
+✔️ Learned about Dilation and Erosion to refine results
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
