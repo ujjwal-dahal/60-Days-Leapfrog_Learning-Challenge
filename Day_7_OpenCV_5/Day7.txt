@@ -1,0 +1,7 @@
+#LSPPDay7 of 60 Days Challenge by @lftechnology 🧪
+
+Today I explored drawing shapes & object detection in OpenCV!
+✔️ Drew rectangles, circles, lines, and text
+✔️ Detected contours & predicted object colors (incl. black) 🎨
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
