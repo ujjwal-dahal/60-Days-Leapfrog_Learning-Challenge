@@ -1,0 +1,6 @@
+#LSPPDay8 of 60 Days Challenge by @lftechnology 🧪
+
+Today I built a Color Detection project using OpenCV!
+✔️ Used contours + masking for real-time object & color detection 🎯🎨
+
+#60DaysOfLearning2025 #LearningWithLeapfrog #OpenCV #ComputerVision

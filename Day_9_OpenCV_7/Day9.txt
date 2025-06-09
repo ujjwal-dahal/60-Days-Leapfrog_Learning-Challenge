@@ -1,0 +1,7 @@
+#LSPPDay9 of 60 Days Challenge by @lftechnology 🧪
+
+Today I built a Face Anonymizer project using MediaPipe!
+✔️ Learned how to detect faces and blur them using MediaPipe & OpenCV 😎🕵️
+✔️ First time using the MediaPipe library — super cool & easy!
+
+#60DaysOfLearning2025 #LearningWithLeapfrog 
