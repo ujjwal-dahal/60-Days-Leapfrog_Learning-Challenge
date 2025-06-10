@@ -1,0 +1,6 @@
+#LSPPDay10 of 60 Days Challenge by @lftechnology 🧪
+
+Today I explored basic YOLO and ran my first object detection on an image!✔️ Learned how YOLO detects multiple objects in one go 🎯
+✔️ Super fun to see it in action! 🚀
+
+#60DaysOfLearning2025 #LearningWithLeapfrog
