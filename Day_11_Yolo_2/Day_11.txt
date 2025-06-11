@@ -1,0 +1,11 @@
+🧠 #LSPPDay11 of 60 Days Challenge by @lftechnology
+
+Today I dove into the story of Object Detection — from 1970s to CNN, R-CNN to YOLO!
+📦 Learned how YOLO:
+🔹 Grids the image
+🔹 Finds object center
+🔹 Calculates IOU
+🔹 Applies NMS for final clean boxes
+
+🚀 Ran my first YOLO model — it's magic!
+#60DaysOfLearning2025 #LearningWithLeapfrog #ComputerVision #YOLO
