@@ -1,0 +1,8 @@
+#LSPPDay12 of 60 Days Challenge by @lftechnology 🧪
+
+Today I learned how to evaluate Object Detection models!
+✔️ IoU to measure how good the localization is 🎯
+✔️ mAP to evaluate classification accuracy 📊
+
+Excited to dive deeper into model performance! 🚀
+#60DaysOfLearning2025 #LearningWithLeapfrog
